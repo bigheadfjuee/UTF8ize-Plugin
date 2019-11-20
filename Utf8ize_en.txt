@@ -1,0 +1,28 @@
+# UTF8ize Plugin
+
+## What's this?
+
+This plugin sets the source code file format to UTF-8 when creating a new file.
+
+## Supported versions
+
+2010 - XE10.3
+
+## Installation
+
+1. Open the package "Utf8ize.dpk"
+2. Right click on "Utf8ize.bpl" and click "Install"
+
+## History
+
+- Ver.0.0.2
+  - Add XE10 Seattle ~ 10.3 Rio
+
+- Ver.0.0.1
+
+  - First release
+
+## License
+
+UTF8ize Plugin is licensed under the terms of the [zlib license](http://opensource.org/licenses/zlib-license).
+Copyright (c) 2015 [Lyna](https://twitter.com/lynatan)
